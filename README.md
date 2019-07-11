@@ -1,3 +1,5 @@
 # snake-java
-1) This is a snake game written in Java.
-2) This game had been developed in a day.
+* This is a snake game written in Java.
+* This game had been developed in a day.
+### Screenshot
+![screenshot](screenshot.png "A screenshot of the game")
