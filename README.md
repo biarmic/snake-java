@@ -1,5 +1,13 @@
-# snake-java
-* This is a snake game written in Java.
-* This game had been developed in a day.
-### Screenshot
-![screenshot](screenshot.png "A screenshot of the game")
+# Snake
+
+## Features
+* 5 different mazes
+* Maze creation menu
+* Highscore system
+
+## What I Learned
+* Swing in Java
+
+## Screenshots
+![screenshot](screenshot-1.png "In-game")
+![screenshot](screenshot-2.png "Maze creation menu")
